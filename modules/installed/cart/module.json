@@ -1,0 +1,12 @@
+{
+    "name": "Shopping Cart",
+    "version": "1.0.0",
+    "description": "Users can view their shopping cart",
+    "author": {
+        "name": "Chris Day",
+        "url": "http:\/\/glscript.cdcoding.com"
+    },
+    "pageName": "Shopping Cart",
+    "accessInJail": true,
+    "requireLogin": false
+}

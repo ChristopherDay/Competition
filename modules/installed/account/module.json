@@ -1,0 +1,12 @@
+{
+    "name": "Account",
+    "version": "1.0.0",
+    "description": "",
+    "author": {
+        "name": "Chris Day",
+        "url": "http:\/\/glscript.cdcoding.com"
+    },
+    "pageName": "View Account",
+    "accessInJail": true,
+    "requireLogin": true
+}

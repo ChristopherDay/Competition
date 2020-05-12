@@ -1,0 +1,33 @@
+{
+    "name": "Competitions",
+    "version": "1.0.0",
+    "description": "This page is shown when a page is not found",
+    "author": {
+        "name": "Chris Day",
+        "url": "http:\/\/glscript.cdcoding.com"
+    },
+    "pageName": "Competitions",
+    "accessInJail": true,
+    "requireLogin": false,
+    "adminGroup": "Competitions",
+    "admin": [
+        {
+            "text": "View Competition",
+            "method": "view"
+        },
+        {
+            "text": "Add Competition",
+            "method": "new"
+        },
+        {
+            "hide": true,
+            "text": "Edit Competition",
+            "method": "edit"
+        },
+        {
+            "hide": true,
+            "text": "Delete Competition",
+            "method": "delete"
+        }
+    ]
+}

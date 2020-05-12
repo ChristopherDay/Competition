@@ -1,0 +1,19 @@
+.questions {
+	padding: 0px -5px;
+}
+
+.questions .col-md-4 {
+	padding: 0px 5px;
+}
+
+.questions .col-md-4 .label {
+	display: block;
+	text-align: left;
+}
+
+.cart-image {
+	width: 100%;
+	height: 90px;
+	background-size: cover;
+	background-position: center;
+}

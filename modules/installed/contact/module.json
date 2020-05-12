@@ -1,0 +1,33 @@
+{
+    "name": "Pages",
+    "version": "1.0.0",
+    "description": "This page is shown when a page is not found",
+    "author": {
+        "name": "Chris Day",
+        "url": "http:\/\/glscript.cdcoding.com"
+    },
+    "pageName": "Pages",
+    "accessInJail": true,
+    "requireLogin": false,
+    "adminGroup": "Pages",
+    "admin": [
+        {
+            "text": "View Page",
+            "method": "view"
+        },
+        {
+            "text": "Add Page",
+            "method": "new"
+        },
+        {
+            "hide": true,
+            "text": "Edit Page",
+            "method": "edit"
+        },
+        {
+            "hide": true,
+            "text": "Delete Page",
+            "method": "delete"
+        }
+    ]
+}

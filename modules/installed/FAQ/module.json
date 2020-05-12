@@ -1,0 +1,33 @@
+{
+    "name": "FAQ",
+    "version": "1.0.0",
+    "description": "",
+    "author": {
+        "name": "Chris Day",
+        "url": "http:\/\/glscript.cdcoding.com"
+    },
+    "pageName": "FAQ",
+    "accessInJail": true,
+    "requireLogin": false,
+    "adminGroup": "Pages",
+    "admin": [
+        {
+            "text": "View FAQ",
+            "method": "view"
+        },
+        {
+            "text": "Add FAQ",
+            "method": "new"
+        },
+        {
+            "hide": true,
+            "text": "Edit FAQ",
+            "method": "edit"
+        },
+        {
+            "hide": true,
+            "text": "Delete FAQ",
+            "method": "delete"
+        }
+    ]
+}

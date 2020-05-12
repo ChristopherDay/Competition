@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `FAQ` (
+  `FAQ_id` int(11) NOT NULL AUTO_INCREMENT,
+  `FAQ_title` varchar(120) NOT NULL,
+  `FAQ_text` text NOT NULL,
+  PRIMARY KEY (`FAQ_id`)
+) DEFAULT CHARSET=utf8;

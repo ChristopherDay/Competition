@@ -1,0 +1,10 @@
+
+.dropdown-toggle-hover {
+    display: inline-block;
+}
+
+.dropdown-toggle-hover:hover .dropdown-menu {
+    display: block;
+    margin-left: -162px;
+    width: 180px;
+}

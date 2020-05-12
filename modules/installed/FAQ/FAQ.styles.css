@@ -1,0 +1,7 @@
+.faq-item .panel-heading {
+	cursor: pointer;
+}
+
+.faq-hidden .panel-body {
+	display: none;
+}
