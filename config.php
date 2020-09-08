@@ -6,9 +6,9 @@
 
     $config["db"] = array(
     	"host" => "127.0.0.1", 
-    	"database" => "competitions",
-    	"user" => "root",
-    	"pass" => "ae8faa6e01"
+    	"database" => "",
+    	"user" => "",
+    	"pass" => ""
     );
 
 ?>
